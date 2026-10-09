@@ -14,11 +14,11 @@ window.MojoI18N.be = {
   "features.title": "Чаму MojoLauncher",
   "features.subtitle": "Азнаёмцеся з функцыяналам лаўнчара",
   "features.card1.title": "Поўны кантроль",
-  "features.card1.body": "Лёгка наладзьце лаўнчар пад сябе за кошт экраннага кіравання з пашыраным функцыяналам, наладкаў прадукцыйнасці і мноства драйвераў і слаёў трансляцыі OpenGL",
+  "features.card1.body": "Лёгка наладзьце лаўнчар пад сябе за кошт экраннага кіравання з пашыраным функцыяналам, наладак прадукцыйнасці і мноства драйвераў і слаёў трансляцыі OpenGL",
   "features.card2.title": "Падтрымка модаў",
   "features.card2.body": "Лёгка ўсталюйце вашы любімыя модпакі і загрузчыкі модаў. MojoLauncher забяспечвае высокі ўзровень сумяшчальнасці з мадыфікацыямі для Minecraft.",
-  "features.card3.title": "Усталёўкі",
-  "features.card3.body": "Даныя гульні аўтаматычна падзеленыя для мадыфікаваных усталёвак — няма неабходнасці разбірацца ў сваіх папках.",
+  "features.card3.title": "Устаноўкі",
+  "features.card3.body": "Даныя гульні аўтаматычна падзеленыя для мадыфікаваных установак — няма неабходнасці разбірацца ў сваіх папках.",
 
   "news.title": "Апошнія версіі",
   "news.subtitle": "Самыя свежыя зборкі, апублікаваныя на GitHub.",
@@ -31,7 +31,7 @@ window.MojoI18N.be = {
   "download.title": "Спампаваць MojoLauncher",
   "download.subtitle": "Спампуйце лаўнчар для Android. Стабільныя версіі публікуюцца ў Google Play, альфа-версіі даступныя на GitHub.",
   "download.nightly": "Альфа-версія",
-  "download.nightlyWarning": "Альфа-версіі часта абнаўляюцца, утрымліваюць эксперыментальныя функцыі і могуць мець значныя праблемы з працаздольнасцю. Усталёўвайце толькі на свой страх і рызыку.",
+  "download.nightlyWarning": "Альфа-версіі часта абнаўляюцца, утрымліваюць эксперыментальныя функцыі і могуць мець значныя праблемы з працаздольнасцю. Усталёўвайце іх толькі на ўласную адказнасць.",
   "play.src": "assets/badges/google-play-ru.webp",
   "play.alt": "Даступна ў Google Play",
 
@@ -47,7 +47,7 @@ window.MojoI18N.be = {
   "components.gl4es.link": "Holy GL4ES на GitHub",
 
   "components.mojoexec.title": "MojoExec",
-  "components.mojoexec.body": "Бібліятэка, якая рэалізуе загрузку старонніх драйвераў OpenGL і Vulkan",
+  "components.mojoexec.body": "Бібліятэка, якая рэалізуе загрузку ўласных драйвераў OpenGL і Vulkan",
   "components.mojoexec.link": "MojoExec на GitHub",
 
   "components.sdl.title": "SDL / GLFW",
@@ -60,7 +60,7 @@ window.MojoI18N.be = {
 
   "components.mesa.title": "Mesa 3D",
   "components.mesa.body": "Форк праекта Mesa 3D з дадатковымі зменамі сумяшчальнасці для Turnip, падтрымкай Kopper у Android EGL, і рэалізацыя працы з KGSL для Freedreno (Gallium)",
-  "components.mesa.note": "У сувязі са злоўжываннем гэтага кода трэцімі асобамі, форк не даступны публічна",
+  "components.mesa.note": "У сувязі са злоўжываннем гэтым кодам трэцімі асобамі форк не даступны публічна",
   "components.mesa.link": "Арыгінальная Mesa",
 
   "menu.language": "Мова",
